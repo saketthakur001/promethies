@@ -1,17 +1,17 @@
 # TaskForge Priorities
 
 ## Books
-- Priority: 8
+- Priority: 7
 - File: books_tasks.md
 - History: books_history.md
 
 ## Movies
-- Priority: 6
+- Priority: 5
 - File: movies_tasks.md
 - History: movies_history.md
 
 ## Music
-- Priority: 7
+- Priority: 8
 - File: music_tasks.md
 - History: music_history.md
 
